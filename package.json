@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amitravikumar/JavaScript-Bundler/issues"
   },
-  "homepage": "https://github.com/amitravikumar/JavaScript-Bundler#readme"
+  "homepage": "https://github.com/amitravikumar/JavaScript-Bundler#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
